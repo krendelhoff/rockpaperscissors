@@ -1,0 +1,4 @@
+Tim 1200
+Jane 200
+Alex 400
+Dima 200
